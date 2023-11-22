@@ -55,7 +55,9 @@
         lv2:portProperty lv2:toggled;
     ] ;
 
-    rdfs:comment "Generated from Max gen~ and github.com/moddevices/max-gen-plugins" ;
+    rdfs:comment """ 
+Simple phase inverter. i.e. useful on stage for acoustic instrument amplification
+""" ;
 
     mod:brand "Zwabo" ;
     mod:label "Zinvert_phase" ;
