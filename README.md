@@ -1,6 +1,7 @@
 # Zinvert_phase
-.lv2 utility plugin for Mod.  Simple phase inverter. 
-i.e. useful on stage for acoustic instrument amplification
+
+Simple phase inverter. 
+i.e. useful on stage to avoid feedback with acoustic instrument amplification
 
 Mod devices installation
 
